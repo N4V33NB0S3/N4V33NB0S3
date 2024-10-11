@@ -1,7 +1,7 @@
 # 👋 Hello, I'm N4V33N
 
 ## About Me
-I am a Network Operation Centre (NOC) Engineer at ACT Fibernet, with a passion for cybersecurity and ethical hacking. With a strong foundation in networking and certifications like **CCNA**, I am constantly enhancing my skillset in offensive security and penetration testing. I thrive in Capture The Flag (CTF) competitions and have ranked in the **top 1% on TryHackMe**. I’m currently working toward **Certified Ethical Hacker (CEH)** certification.
+I am a Network Operation Centre (NOC) Engineer, with a passion for cybersecurity and ethical hacking. With a strong foundation in networking and certifications like **CCNA**, I am constantly enhancing my skillset in offensive security and penetration testing. I thrive in Capture The Flag (CTF) competitions and have ranked in the **top 1% on TryHackMe**. I’m currently working toward **Certified Ethical Hacker (CEH)** certification.
 
 After completing my **B.E. in Mechanical Engineering** in 2017 and exploring various career options, I found my true passion in **cybersecurity**. I have embraced this exciting field and am now pursuing an **MCA in Cybersecurity** at Jain University to further deepen my expertise.
 
