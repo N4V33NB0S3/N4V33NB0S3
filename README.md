@@ -1,4 +1,4 @@
-# 👋 Hello, I'm N4V33N
+# 👋 Hello, I'm Naveen
 
 ## About Me
 I am a Network Operation Centre (NOC) Engineer, with a passion for cybersecurity and ethical hacking. With a strong foundation in networking and certifications like **CCNA**, I am constantly enhancing my skillset in offensive security and penetration testing. I thrive in Capture The Flag (CTF) competitions and have ranked in the **top 1% on TryHackMe**. I’m currently working toward **Certified Ethical Hacker (CEH)** certification.
@@ -29,4 +29,4 @@ Feel free to connect with me or check out my projects!
 
 ## Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/naveen-bose-612134256]
-- **GitHub:** [Your GitHub Profile URL]
+
