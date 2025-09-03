@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Naveen
+# 👋 Hello, I'm Naveen Bose
 
 ## About Me
 I am a Network Operation Centre (NOC) Engineer, with a passion for cybersecurity and ethical hacking. With a strong foundation in networking and certifications like **CCNA**, I am constantly enhancing my skillset in offensive security and penetration testing. I thrive in Capture The Flag (CTF) competitions and have ranked in the **top 1% on TryHackMe**. I’m currently working toward **Certified Ethical Hacker (CEH)** certification.
@@ -16,7 +16,7 @@ After completing my **B.E. in Mechanical Engineering** in 2017 and exploring var
 
 ## Current Projects
 
-- Enhancing skills in **machine code**, **binaries**, and **hexadecimal** to better understand low-level computing.
+- Enhancing skills in **Offensive security** and **Defensive security**
 - Automating **server switching in Proton VPN** for optimized privacy.
 - Developing Python scripts for **security automation** tasks.
 - Working with **Dahua WizSense DVR** to set up home surveillance and real-time alerts via Raspberry Pi.
@@ -29,4 +29,5 @@ Feel free to connect with me or check out my projects!
 
 ## Let's Connect!
 - **LinkedIn:** [www.linkedin.com/in/naveen-bose-612134256]
+- **Website:** [www.naveenbose.com]
 
