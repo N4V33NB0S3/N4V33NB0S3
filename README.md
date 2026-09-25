@@ -1,33 +1,36 @@
-# 👋 Hello, I'm Naveen Bose
+# Hi, I'm Naveen Bose
 
-## About Me
-I am a Network Operation Centre (NOC) Engineer, with a passion for cybersecurity and ethical hacking. With a strong foundation in networking and certifications like **CCNA**, I am constantly enhancing my skillset in offensive security and penetration testing. I thrive in Capture The Flag (CTF) competitions and have ranked in the **top 1% on TryHackMe**. I’m currently working toward **Certified Ethical Hacker (CEH)** certification.
+**Network & Security Engineer | Firewall Operations | Network Automation**
 
-After completing my **B.E. in Mechanical Engineering** in 2017 and exploring various career options, I found my true passion in **cybersecurity**. I have embraced this exciting field and am now pursuing an **MCA in Cybersecurity**  to further deepen my expertise.
+I’m a Network Operations Engineer with 3 years of experience supporting a large ISP environment. My work spans FortiGate firewall operations, multi-vendor routing and switching, incident and change management, and Python automation. I’m currently pursuing an MCA in Cybersecurity and building on my hands-on experience in network security and penetration testing.
 
-## Technical Skills
+## Experience highlights
 
-- **Networking:** CCNA certified, with expertise in network troubleshooting and administration.
-- **Offensive Security:** Active participant in CTFs, proficient in tools like Kali Linux, Gobuster, and Wfuzz.
-- **Scripting & Automation:** Skilled in Python scripting, with experience automating tasks like video downloads, password management, and more.
-- **Cybersecurity Platforms:** Extensive experience on **TryHackMe**, **Hack The Box**, and other hands-on security labs.
-- **Operating Systems:** Familiar with Linux distributions (Kali, Parrot OS) and virtual environments (VMware).
-- **Cloud & VPN:** Proton VPN, Proton Pass, and handling secure cloud solutions like Proton Drive.
+- Administered FortiGate 100F/200F firewalls, including policies, NAT, security profiles, traffic inspection, and IPSec VPN tunnels.
+- Completed **1,000+ change-management activities** and supported **50+ cluster migration projects**.
+- Troubleshot Layer 2/3, firewall, and ISP connectivity issues, documenting root-cause analysis and coordinating vendor TAC escalations.
+- Built Python automation with **Netmiko** and **pexpect** for multi-vendor configuration pushes, hardening, and audits across hundreds of devices.
+- Monitored core, peering, and caching links with SolarWinds Orion and supported data-center installations, replacements, and migrations.
 
-## Current Projects
+## Technical skills
 
-- Enhancing skills in **Offensive security** and **Defensive security**
-- Automating **server switching in Proton VPN** for optimized privacy.
-- Developing Python scripts for **security automation** tasks.
-- Working with **Dahua WizSense DVR** to set up home surveillance and real-time alerts via Raspberry Pi.
+- **Firewalls & security:** FortiGate, firewall policy, NAT/PAT, IPSec (IKEv1/v2), SSL VPN, security profiles, HA, VDOM, SD-WAN
+- **Routing & services:** BGP, OSPF, IS-IS, MPLS, LDP, MPLS L2VPN/L3VPN, VPLS, VLAN, QinQ, LACP
+- **Platforms:** Nokia SR OS, Huawei, Juniper, Cisco, Arista, FortiGate
+- **Automation & tools:** Python, Netmiko, pexpect, threading, CSV/log parsing, SolarWinds Orion, Wireshark, Nmap
+- **Cloud networking fundamentals:** VPC, subnets, route tables, NAT and internet gateways, peering, Transit Gateway, security groups, NACLs, Route 53
+- **Security learning:** OWASP Top 10, vulnerability scanning, CVE/CVSS prioritization, Metasploit; TryHackMe Top 1% and Jr. Penetration Tester path completed
 
-## Looking Forward
+## Certifications & education
 
-I am always excited to learn new technologies and contribute to open-source projects, particularly in the fields of networking and cybersecurity. I aim to further improve my expertise in **cybersecurity** and **network defense** while staying updated with the latest tools and trends in the industry.
+- Fortinet NSE 3
+- JNCIA-Junos
+- CCNA (expired February 2026)
+- Fortinet NSE 4 course completed; CCNP training
+- MCA in Cybersecurity — in progress
+- B.E. in Mechanical Engineering, 2017
 
-Feel free to connect with me or check out my projects!
+## Connect
 
-## Let's Connect!
-- **LinkedIn:** [www.linkedin.com/in/naveen-bose-612134256]
-- **Website:** [www.naveenbose.com]
-
+- [LinkedIn](https://www.linkedin.com/in/naveen-bose-612134256)
+- [Website](https://www.naveenbose.com)
