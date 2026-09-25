@@ -26,7 +26,8 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 - Fortinet NSE 3
 - JNCIA-Junos
 - CCNA (expired February 2026)
-- Fortinet NSE 4 course completed; CCNP training
+- Fortinet NSE 4 course completed
+- CCNP training
 - MCA in Cybersecurity — in progress
 - B.E. in Mechanical Engineering, 2017
 
