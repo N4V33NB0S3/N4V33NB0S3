@@ -14,7 +14,7 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 
 ## Technical skills
 
-- **Firewalls & security:** FortiGate, firewall policy, NAT/PAT, IPSec (IKEv1/v2), SSL VPN, security profiles, HA, VDOM, SD-WAN
+- **Firewalls & security:** FortiGate, firewall policy, NAT/PAT, IPSec (IKEv1/v2), SSL VPN, security profiles, IDS/IPS, HA, VDOM, SD-WAN
 - **Routing & services:** BGP, OSPF, IS-IS, MPLS, LDP, MPLS L2VPN/L3VPN, VPLS, VLAN, QinQ, LACP
 - **Platforms:** Nokia SR OS, Huawei, Juniper, Cisco, Arista, FortiGate
 - **Automation & tools:** Python, Netmiko, pexpect, threading, CSV/log parsing, SolarWinds Orion, Wireshark, Nmap
@@ -28,7 +28,7 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 - CCNA (expired February 2026)
 - Fortinet NSE 4 course completed
 - CCNP training
-- MCA in Cybersecurity — in progress
+- MCA in Cybersecurity (Jain University Online) — 2026
 - B.E. in Mechanical Engineering, 2017
 
 ## Connect
