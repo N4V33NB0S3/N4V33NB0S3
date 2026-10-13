@@ -31,6 +31,13 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 - MCA in Cybersecurity (Jain University Online) — 2026
 - B.E. in Mechanical Engineering, 2017
 
+<h3 align="center">Certifications</h3>
+<p align="center">
+  <img src="assets/CCNA.jpg" height="120" alt="Cisco CCNA" />
+  <img src="assets/Junos.png" height="120" alt="JNCIA-Junos" />
+  <img src="assets/NSE_3.jpg" height="120" alt="Fortinet NSE 3" />
+</p>
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/naveen-bose-612134256)
