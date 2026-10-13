@@ -33,9 +33,15 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 
 <h3 align="center">Certifications</h3>
 <p align="center">
-  <img src="assets/CCNA.jpg" height="120" alt="Cisco CCNA" />
-  <img src="assets/Junos.png" height="120" alt="JNCIA-Junos" />
-  <img src="assets/NSE_3.jpg" height="120" alt="Fortinet NSE 3" />
+  <a href="https://www.credly.com/badges/04a0c0ed-1e0f-4ec8-8f57-23c6a1ea4e85" target="_blank">
+    <img src="assets/CCNA.jpg" height="120" alt="Cisco CCNA" />
+  </a>
+  <a href="https://www.credly.com/badges/0b181374-b19d-4289-8776-434221442021" target="_blank">
+    <img src="assets/Junos.png" height="120" alt="JNCIA-Junos" />
+  </a>
+  <a href="https://www.credly.com/badges/6f497358-20cd-4ada-8ed2-2d373441ea6a" target="_blank">
+    <img src="assets/NSE_3.jpg" height="120" alt="Fortinet NSE 3" />
+  </a>
 </p>
 
 ## Connect
