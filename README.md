@@ -7,7 +7,7 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 ## Experience highlights
 
 - Administered FortiGate 100F/200F firewalls, including policies, NAT, security profiles, traffic inspection, and IPSec VPN tunnels.
-- Completed **1,000+ change-management activities** and supported **50+ cluster migration projects**.
+- Completed **300+ change-management activities** and supported **10+ cluster migration projects**.
 - Troubleshot Layer 2/3, firewall, and ISP connectivity issues, documenting root-cause analysis and coordinating vendor TAC escalations.
 - Built Python automation with **Netmiko** and **pexpect** for multi-vendor configuration pushes, hardening, and audits across hundreds of devices.
 - Monitored core, peering, and caching links with SolarWinds Orion and supported data-center installations, replacements, and migrations.
