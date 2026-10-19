@@ -42,6 +42,9 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
   <a href="https://www.credly.com/badges/6f497358-20cd-4ada-8ed2-2d373441ea6a" target="_blank">
     <img src="assets/NSE_3.jpg" height="120" alt="Fortinet NSE 3" />
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/3b4d12ce-de5c-4636-8648-e2c4e2b7f0e3" target="_blank">
+    <img src="assets/NRS_I" height="120" alt="Fortinet NSE 3" />
+  </a>
 </p>
 
 ## Connect
