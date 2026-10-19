@@ -25,6 +25,7 @@ I’m a Network Operations Engineer with 3 years of experience supporting a larg
 
 - Fortinet NSE 3
 - JNCIA-Junos
+- Nokia Certified Network Routing Specialist I (NRS I)
 - CCNA (expired February 2026)
 - Fortinet NSE 4 course completed
 - CCNP training
